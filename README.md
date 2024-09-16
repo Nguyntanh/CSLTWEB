@@ -1,6 +1,6 @@
 # Ảnh chụp màn hình kết quả
 
-![Hình ảnh kết quả](Screenshot 2024-09-16 121340.png)
+![Hình ảnh kết quả](ketqua.png)
 
 # Hướng dẫn push code git
 <!-- Khởi tạo -->
